@@ -100,6 +100,6 @@ This checklist serves to help provide a goal when playing PokeWilds. Most inform
 
 ## Miscellaneous / Things you'll wish you did later
 * Setup automatic backups of your save.
-* Setup a Controller Configuration (either via Steam, or directly editing the game files.)
-* Contribute to the Wiki (Does not need to be new information. Updating, expanding an article, or even fixing broken links is a huge help.)
+* Setup a Controller Configuration (either via Steam, directly editing the game files, or another 3rd-party application.)
+* Contribute to the [Wiki](https://pokewilds.fandom.com/wiki/) (Does not need to be new information. Updating, expanding an article, or even fixing broken links is a huge help.)
 * Try out some of the mods posted on the [Discord Server](https://discord.gg/). Note that the server is currently read-only for new members.
