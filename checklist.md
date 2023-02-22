@@ -1,5 +1,5 @@
 # PokeWilds Checklist
-This checklist serves to help provide a goal when playing PokeWilds. Most information is sourced from the [Fanmade Wiki](https://pokewilds.fandom.com/wiki/), and the official [Discord Server](https://discord.gg/)
+This checklist serves to help provide a goal when playing PokeWilds. Most information is sourced from the [Fanmade Wiki](https://pokewilds.fandom.com/wiki/), and the official [Discord Server](https://discord.gg/). I will update this as SheerSt releases new versions.
 
 ## Catching
 * Complete the Pokedex
